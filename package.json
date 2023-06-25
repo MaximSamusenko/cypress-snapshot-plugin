@@ -1,0 +1,15 @@
+{
+  "name": "cypress-match-snapshot",
+  "version": "1.0.0",
+  "description": "cypress plugin to match snapshot",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "snapshot"
+  ],
+  "author": "Samusenko",
+  "license": "ISC"
+}
